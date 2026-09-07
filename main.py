@@ -2,3 +2,9 @@ def greet(name):
     print(f"Hello, {name}!")
 
 greet("World")
+
+def add(a, b):
+    return a + b
+
+sum = add(10,10)
+print(sum)
