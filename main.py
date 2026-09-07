@@ -9,4 +9,10 @@ def add(a, b):
 sum = add(10,10)
 print(sum)
 
-""This is my Sample Python Script""
+#This is my Sample Python Script
+
+def subtract(a, b):
+    return a - b
+
+difference = subtract(20, 5)
+print(difference)
